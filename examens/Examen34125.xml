@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE Examen SYSTEM "Examen.dtd">
+<Examen code="12">
+    <module>Données Sémi Structurées</module>
+    <date mois="Nov" annee="2021"/>
+    <Questions>
+        <Question>
+            <partie>
+            Definir xml
+            </partie>
+        </Question>
+
+        <Question>
+            <partie>
+            </partie>
+        </Question>
+ 
+        <Question>
+            <partie>
+            </partie>
+        </Question>
+     </Questions>
+</Examen>

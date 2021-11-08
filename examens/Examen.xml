@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE Examen SYSTEM "Examen.dtd">
+<Examen code="12">
+    <module>Données Sémi Structurées</module>
+    <date mois="Nov" annee="2021"/>
+    <Questions>
+       <Question>
+            <partie>
+            Definir xml
+            </partie>
+            <partie>
+            Qui l'a crée
+            </partie>
+        </Question>
+
+        <Question>
+            <partie>
+            Quelle est l'utilité de xml
+            </partie>
+            <partie>
+            Teste
+            </partie>
+        </Question>
+ 
+        <Question>
+            <partie>
+            sa différence avec html 
+            </partie>
+        </Question>
+     </Questions>
+</Examen>
